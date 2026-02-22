@@ -15,6 +15,7 @@ console.log(sub);
 console.log(mul);
 console.log(div);
 
+
 // -------
 console.log(a % b); // Modulus operaor - it gives -> Remainder
 console.log(13 % 7);

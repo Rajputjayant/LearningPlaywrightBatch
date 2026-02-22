@@ -7,3 +7,10 @@ let val2 = null ?? "default";   // "default" (?? returns right side if left is n
 val = "which milk? -> " + val;
 console.log(val)
 // very useful in test data handling.
+
+
+
+let name = null;
+let finalName = name ?? "Guest";
+
+console.log(finalName);

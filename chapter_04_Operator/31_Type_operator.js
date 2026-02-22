@@ -6,5 +6,8 @@ console.log(typeof 31.4); // float -> number
 // typeof null  -> object
 // typeof [] -> object
 console.log(typeof []); // -> object
+console.log(typeof null);
+console.log(typeof false);
+console.log(typeof undefined);
 
 console.log(`${6 * 4}`);
