@@ -11,7 +11,7 @@ switch (x) {
     default:
         console.log("d");
     // default:
-    //     console.log("d");
+     //    console.log("d");
 
 }
 

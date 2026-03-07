@@ -29,3 +29,15 @@ switch (day) {
     default:
         console.log("Invalid day value");
 }
+
+let fruit ='Gauva';
+switch(fruit){
+    case "apple":
+    case "Mango":
+    case "Banana":
+        console.log("This is fruit");
+        break;
+    default:
+        console.log("Unknow Item")
+    
+}

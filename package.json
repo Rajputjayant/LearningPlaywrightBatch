@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "playwright": "^1.58.2"
+  },
+  "name": "learningplaywright",
+  "version": "1.0.0",
+  "description": "A small learning repository for Playwright examples and notes.",
+  "main": "index.js",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajputjayant/LearningPlaywrightBatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rajputjayant/LearningPlaywrightBatch/issues"
+  },
+  "homepage": "https://github.com/Rajputjayant/LearningPlaywrightBatch#readme"
+}
